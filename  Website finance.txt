@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Penny Loans - Simple Financing</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #28a745;
+            color: white;
+            padding: 15px;
+            text-align: center;
+            font-size: 24px;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+        button {
+            background-color: #28a745;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+<body>
+    <header>Penny Loans - Your Trusted Financing Partner</header>
+    <div class="container">
+        <h2>About Us</h2>
+        <p>We provide small, fast, and reliable penny loans to help you in times of need. No hidden fees, quick approval process!</p>
+    </div>
+    <div class="container">
+        <h2>Our Services</h2>
+        <p>We offer penny loans with minimal interest rates and flexible repayment options.</p>
+    </div>
+    <div class="container">
+        <h2>Apply for a Loan</h2>
+        <p>Fill out our simple application form and get approved within minutes.</p>
+        <button>Apply Now</button>
+    </div>
+    <div class="container">
+        <h2>Contact Us</h2>
+        <p>Email: support@pennyloans.com</p>
+        <p>Phone: (123) 456-7890</p>
